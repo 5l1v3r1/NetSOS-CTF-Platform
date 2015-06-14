@@ -1,7 +1,7 @@
-Fork Reason
+NetSOS CTF Platform
 =============
 
-I want to modify it to NetSOS CTF Platform for internal CTF in Universitas Indonesia.
+CTF Platform for internal CTF in Unviersitas Indonesia based on picoCTF-Platform 2 by Carnegie Mellon University.
 
 
 picoCTF-Platform 2
